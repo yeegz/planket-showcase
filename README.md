@@ -44,8 +44,8 @@ Planning with friends dies in the group chat: "when are you free?", forty messag
 | Part | State |
 |---|---|
 | Web app | Live on Firebase Hosting, runs on demo data on your device |
-| iOS app | Builds and archives; TestFlight upload pending |
-| Android app | Builds (debug APK, release AAB); Play listing pending |
+| iOS app | Live on the App Store since 2 November 2026; version 1.1.0 is current |
+| Android app | In Google Play closed testing |
 | Accounts + Google Calendar sync | Built and tested in code; waiting on Supabase and Google Cloud projects to go live |
 | Push notifications | Settings exist; delivery not built yet |
 
